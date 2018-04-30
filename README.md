@@ -1,5 +1,5 @@
 # Package.json
-Este é o arquivo de dependências do projeto, ou seja, todas as bibliotecas que foram usadas no projeto devem estar dentro desse arquivo para facilitar a sua instalação e também seu uso no projeto.
+Este é o arquivo de dependências do projeto, ou seja, todas as bibliotecas que forem usadas no projeto devem estar dentro desse arquivo para facilitar a sua instalação e também seu uso no projeto.
 
 # Arquivos *_testing.js 
 Estes arquivos possuem os testes das API's, ou seja, nele descrevemos as "funcionalidades" que iremos testar, assim como os demais cenários de teste de cada API: cenários de sucesso, alternativos, erros e etc!
